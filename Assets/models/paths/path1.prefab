@@ -129,7 +129,7 @@ MonoBehaviour:
   lastPoint: {fileID: 5625676317897344493}
   flowerWayItem: {fileID: 4643398922367930019, guid: 7e126742cbca9b642b0346d1d2489705,
     type: 3}
-  flowerWayInterval: 0.2
+  flowerWayInterval: 0.4
   flowerSkipRadius: 0.2
   flowerWayWaterLevel: 0
   builtPath: []
@@ -146,6 +146,16 @@ PrefabInstance:
         type: 3}
       propertyPath: pointName
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
@@ -238,6 +248,16 @@ PrefabInstance:
       propertyPath: pointName
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
       propertyPath: m_Name
@@ -328,6 +348,16 @@ PrefabInstance:
         type: 3}
       propertyPath: pointName
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
@@ -420,6 +450,16 @@ PrefabInstance:
       propertyPath: pointName
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
       propertyPath: m_Name
@@ -510,6 +550,16 @@ PrefabInstance:
         type: 3}
       propertyPath: pointName
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
@@ -602,6 +652,16 @@ PrefabInstance:
       propertyPath: pointName
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
       propertyPath: m_Name
@@ -693,6 +753,16 @@ PrefabInstance:
       propertyPath: pointName
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
       propertyPath: m_Name
@@ -779,6 +849,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6478875113345742567}
     m_Modifications:
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: offsetScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216514903560102068, guid: 42c4b47b00b3aba42ac76f057e714ebb,
+        type: 3}
+      propertyPath: inclineScale
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4892630656920067877, guid: 42c4b47b00b3aba42ac76f057e714ebb,
         type: 3}
       propertyPath: m_Name

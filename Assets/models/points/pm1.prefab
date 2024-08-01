@@ -50,7 +50,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   qizmosColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  numberModel: {fileID: 0}
   eatingAnimationSpeed: 2
   pointName: 1
   inclineScale: 0.5
@@ -98,10 +97,10 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.14483607
-  m_Height: 0.35195982
+  m_Radius: 0.39149666
+  m_Height: 1.0106802
   m_Direction: 2
-  m_Center: {x: 0.011850536, y: 0.10482252, z: 0.0015592873}
+  m_Center: {x: 0.028113782, y: 0.10482252, z: -0.022835746}
 --- !u!114 &2688620741981330157
 MonoBehaviour:
   m_ObjectHideFlags: 0

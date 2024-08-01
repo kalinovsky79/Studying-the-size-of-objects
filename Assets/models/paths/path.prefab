@@ -125,7 +125,7 @@ MonoBehaviour:
   lastPoint: {fileID: 5625676317897344493}
   flowerWayItem: {fileID: 4643398922367930019, guid: 7e126742cbca9b642b0346d1d2489705,
     type: 3}
-  flowerWayInterval: 0.2
+  flowerWayInterval: 0.4
   flowerSkipRadius: 0.2
   flowerWayWaterLevel: 0
   builtPath: []
